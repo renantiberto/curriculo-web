@@ -49,6 +49,10 @@ section ul {
     padding-left: 20px;
 }
 
+header h1 {
+    text-align: center;
+}
+
 .header_wrap {
     width: 100%;
     display: flex;
